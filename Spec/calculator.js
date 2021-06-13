@@ -10,7 +10,7 @@ describe(' Demo of Calculator', function(){
        element(by.css('[ng-click="doAddition()"]')).click();
         
 
-        browser.sleep(3000)
+        browser.sleep(2000)
 
     });
 });
